@@ -12,6 +12,7 @@ in real time — from a webcam or uploaded image — built with TensorFlow, Mobi
 | Model | MobileNetV2 (fine-tuned) |
 
 ## Project Structure
+```
 sign-language-recognition-/
 ├── src/
 │   ├── config.py        ← paths + hyperparameters
@@ -28,6 +29,7 @@ sign-language-recognition-/
 │   └── training_curves_phase2.png
 ├── requirements.txt
 └── README.md
+```
 ## Setup
 
 ```bash
